@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	İşinin Ehli Ustalar yazısına yapılan yorumlar	</title>
-	<atom:link href="https://sho-otr.github.io/isinin-ehli-ustalar/feed" rel="self" type="application/rss+xml" />
-	<link>https://sho-otr.github.io/isinin-ehli-ustalar</link>
+	<atom:link href="https://esinamerikangarage.com.tr/isinin-ehli-ustalar/feed" rel="self" type="application/rss+xml" />
+	<link>https://esinamerikangarage.com.tr/isinin-ehli-ustalar</link>
 	<description>Amerikan Tamir Bakım Onarım</description>
 	<lastBuildDate>Sun, 05 Jun 2022 20:18:54 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<generator>https://wordpress.org/?v=6.0</generator>
 </channel>
 </rss>

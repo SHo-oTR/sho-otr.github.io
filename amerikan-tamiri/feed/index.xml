@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Amerikan Tamiri yazısına yapılan yorumlar	</title>
-	<atom:link href="https://sho-otr.github.io/amerikan-tamiri/feed" rel="self" type="application/rss+xml" />
-	<link>https://sho-otr.github.io/amerikan-tamiri</link>
+	<atom:link href="https://esinamerikangarage.com.tr/amerikan-tamiri/feed" rel="self" type="application/rss+xml" />
+	<link>https://esinamerikangarage.com.tr/amerikan-tamiri</link>
 	<description>Amerikan Tamir Bakım Onarım</description>
 	<lastBuildDate>Tue, 31 May 2022 17:40:55 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<generator>https://wordpress.org/?v=6.0</generator>
 </channel>
 </rss>
